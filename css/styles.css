@@ -1,0 +1,23 @@
+  body {
+    background-color: #EAF6F6;
+  }
+  td {
+    width: auto;
+  }
+  h1 {
+    color: darkgreen;
+  }
+  h3 {
+    color:darkgreen;
+  }
+  img {
+    height:50%;
+  }
+
+  hr {
+  width: 100%;
+  border-width: 10%;
+  border-style: inset;
+  border-color: grey;
+
+  }
